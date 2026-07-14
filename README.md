@@ -153,12 +153,12 @@
 ### 📊 GitHub Analytics & Commit Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrajapatiPankaj1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=38B2AC&icon_color=38B2AC" alt="Pankaj's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrajapatiPankaj1&theme=radical&hide_border=true&background=0D1117&ring=38B2AC&fire=38B2AC&currStreakLabel=38B2AC" alt="Pankaj's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=PrajapatiPankaj1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Pankaj's GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=PrajapatiPankaj1&theme=radical&hide_border=true&background=0D1117" alt="Pankaj's GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrajapatiPankaj1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=38B2AC" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PrajapatiPankaj1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
 </p>
 
 ---
