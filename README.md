@@ -80,4 +80,92 @@
       <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
       <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
       <img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF" alt="Razorpay"/>
-    
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Featured Projects Showcase
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🛒 Flipkart E-Commerce Platform</h3>
+      <p align="center">
+        A full-scale, enterprise-ready E-Commerce application built with the <strong>MERN Stack</strong> following clean <strong>MVC Architecture</strong>. Features user authentication with encrypted passwords, Redux state management for shopping cart synchronization, dynamic product filtering, database deployment on <strong>MongoDB Atlas</strong>, and live payment processing using the <strong>Razorpay Payment Gateway API</strong>.
+      </p>
+      <p align="center">
+        <strong>Tech Stack:</strong> <code>React.js</code> <code>Redux-Thunk</code> <code>Node.js</code> <code>Express.js</code> <code>MongoDB Atlas</code> <code>Material-UI</code>
+      </p>
+      <p align="center">
+        <a href="https://github.com/PrajapatiPankaj1/Ecommerce-Flipkart">
+          <img src="https://img.shields.io/badge/Explore_Code-24292E?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🍿 Netflix UI Clone & Movie Portal</h3>
+      <p align="center">
+        A high-performance, interactive Netflix web clone built using <strong>React.js & Vite</strong>. Dynamically pulls real-time movie categories, top ratings, and trending series using the <strong>TMDB REST API</strong>. Features smooth cinema-like hover transitions, dark-mode styling, and live embedded YouTube trailer playback inside modals.
+      </p>
+      <p align="center">
+        <strong>Tech Stack:</strong> <code>React.js</code> <code>Vite</code> <code>TMDB API</code> <code>Axios</code> <code>CSS3 Grid/Flex</code>
+      </p>
+      <p align="center">
+        <a href="https://github.com/PrajapatiPankaj1/Netflix-Clone-using-React">
+          <img src="https://img.shields.io/badge/Explore_Code-24292E?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📈 CryptoPlace Market Tracker</h3>
+      <p align="center">
+        A real-time financial cryptocurrency tracking dashboard developed using <strong>React.js & Vite</strong>. Integrated with the <strong>CoinGecko API</strong> to monitor live crypto prices, market capitalization rankings, 24h price fluctuations, multi-currency conversion (USD/INR/EUR), and interactive historical price charts.
+      </p>
+      <p align="center">
+        <strong>Tech Stack:</strong> <code>React.js</code> <code>Vite</code> <code>CoinGecko API</code> <code>Chart.js</code> <code>Axios</code>
+      </p>
+      <p align="center">
+        <a href="https://github.com/PrajapatiPankaj1/Cryptoplace-using-React">
+          <img src="https://img.shields.io/badge/Explore_Code-24292E?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📝 Full-Stack Task Manager App</h3>
+      <p align="center">
+        A comprehensive task management web application built to boost productivity. Equipped with secure JWT user authentication, task categorization, status updates, priority sorting, client-side routing, and real-time interactive notifications using React Toastify.
+      </p>
+      <p align="center">
+        <strong>Tech Stack:</strong> <code>React.js</code> <code>Node.js</code> <code>Express.js</code> <code>MongoDB Atlas</code> <code>Bootstrap 5</code>
+      </p>
+      <p align="center">
+        <a href="https://github.com/PrajapatiPankaj1/task-manager">
+          <img src="https://img.shields.io/badge/Explore_Code-24292E?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Analytics & Commit Activity
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=PrajapatiPankaj1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Pankaj's GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=PrajapatiPankaj1&theme=radical&hide_border=true&background=0D1117" alt="Pankaj's GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PrajapatiPankaj1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
+</p>
+
+---
+
+<p align="center">
+  ⭐️ From <a href="https://github.com/PrajapatiPankaj1"><strong>Pankaj Prajapati</strong></a> | Engineered with a passion for clean code & scalable architecture!
+</p>
