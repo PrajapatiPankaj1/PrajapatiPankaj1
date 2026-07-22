@@ -86,69 +86,71 @@
 
 ---
 
-### 🚀 Featured Projects Showcase
+## 🚀 Featured Projects
+
+> Selected from my GitHub portfolio based on product complexity, architecture, real-world integrations and recruiter relevance.
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🛒 Flipkart E-Commerce Platform</h3>
-      <p align="center">
-        A full-scale, enterprise-ready E-Commerce application built with the <strong>MERN Stack</strong> following clean <strong>MVC Architecture</strong>. Features user authentication with encrypted passwords, Redux state management for shopping cart synchronization, dynamic product filtering, database deployment on <strong>MongoDB Atlas</strong>, and live payment processing using the <strong>Razorpay Payment Gateway API</strong>.
-      </p>
-      <p align="center">
-        <strong>Tech Stack:</strong> <code>React.js</code> <code>Redux-Thunk</code> <code>Node.js</code> <code>Express.js</code> <code>MongoDB Atlas</code> <code>Material-UI</code>
-      </p>
-      <p align="center">
-        <a href="https://github.com/PrajapatiPankaj1/Ecommerce-Flipkart">
-          <img src="https://img.shields.io/badge/Explore_Code-24292E?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🍿 Netflix UI Clone & Movie Portal</h3>
-      <p align="center">
-        A high-performance, interactive Netflix web clone built using <strong>React.js & Vite</strong>. Dynamically pulls real-time movie categories, top ratings, and trending series using the <strong>TMDB REST API</strong>. Features smooth cinema-like hover transitions, dark-mode styling, and live embedded YouTube trailer playback inside modals.
-      </p>
-      <p align="center">
-        <strong>Tech Stack:</strong> <code>React.js</code> <code>Vite</code> <code>TMDB API</code> <code>Axios</code> <code>CSS3 Grid/Flex</code>
-      </p>
-      <p align="center">
-        <a href="https://github.com/PrajapatiPankaj1/Netflix-Clone-using-React">
-          <img src="https://img.shields.io/badge/Explore_Code-24292E?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">📈 CryptoPlace Market Tracker</h3>
-      <p align="center">
-        A real-time financial cryptocurrency tracking dashboard developed using <strong>React.js & Vite</strong>. Integrated with the <strong>CoinGecko API</strong> to monitor live crypto prices, market capitalization rankings, 24h price fluctuations, multi-currency conversion (USD/INR/EUR), and interactive historical price charts.
-      </p>
-      <p align="center">
-        <strong>Tech Stack:</strong> <code>React.js</code> <code>Vite</code> <code>CoinGecko API</code> <code>Chart.js</code> <code>Axios</code>
-      </p>
-      <p align="center">
-        <a href="https://github.com/PrajapatiPankaj1/Cryptoplace-using-React">
-          <img src="https://img.shields.io/badge/Explore_Code-24292E?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📝 Full-Stack Task Manager App</h3>
-      <p align="center">
-        A comprehensive task management web application built to boost productivity. Equipped with secure JWT user authentication, task categorization, status updates, priority sorting, client-side routing, and real-time interactive notifications using React Toastify.
-      </p>
-      <p align="center">
-        <strong>Tech Stack:</strong> <code>React.js</code> <code>Node.js</code> <code>Express.js</code> <code>MongoDB Atlas</code> <code>Bootstrap 5</code>
-      </p>
-      <p align="center">
-        <a href="https://github.com/PrajapatiPankaj1/task-manager">
-          <img src="https://img.shields.io/badge/Explore_Code-24292E?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
-        </a>
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏨 [Destination Holiday](https://github.com/PrajapatiPankaj1/Destination-Holiday-Hotel-Booking-website)
+**Premium hotel booking & management platform**
+
+A production-style full-stack booking system with separate frontend/backend apps, TypeScript, shared modules, analytics, validation, automated data ingestion and E2E test coverage.
+
+**Highlights:** booking workflows · admin/management features · geocoding/data pipeline · responsive premium UI · deployment-ready architecture
+
+`React` `TypeScript` `Node.js` `Express` `MongoDB` `E2E Testing`
+
+[Live Frontend](https://destination-holiday-hotel-booking-w.vercel.app/) · [Repository](https://github.com/PrajapatiPankaj1/Destination-Holiday-Hotel-Booking-website)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 [Flipkart E-Commerce Platform](https://github.com/PrajapatiPankaj1/Ecommerce-Flipkart)
+**Multi-vendor MERN e-commerce application**
+
+An enterprise-style commerce platform built with strict MVC separation and REST APIs. Includes role-based access, product discovery, cart/wishlist synchronization, order management and online payments.
+
+**Highlights:** JWT + bcrypt · Redux-Thunk state management · product filtering · shipping/order workflows · Razorpay integration
+
+`React` `Redux-Thunk` `Node.js` `Express` `MongoDB Atlas` `Razorpay`
+
+[Live Frontend](https://ecommerce-flipkart-green.vercel.app/) · [Repository](https://github.com/PrajapatiPankaj1/Ecommerce-Flipkart)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💬 [ChatApp](https://github.com/PrajapatiPankaj1/ChatApp-using-MERN-Stack)
+**Real-time messaging application**
+
+A real-time chat product with a dedicated frontend/backend structure, authenticated users and advanced messaging experience. Demonstrates event-driven application development beyond standard CRUD.
+
+**Highlights:** real-time communication · Socket.IO · JWT auth · bcrypt · image/file handling with Multer · responsive Tailwind UI
+
+`React` `Node.js` `Express` `MongoDB` `Socket.IO` `JWT`
+
+[Live Frontend](https://chat-app-using-mern-stack-sigma.vercel.app/) · [Repository](https://github.com/PrajapatiPankaj1/ChatApp-using-MERN-Stack)
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 [KnowledgeDesk](https://github.com/PrajapatiPankaj1/KnowledgeDesk-Library-Management)
+**Role-based library management system**
+
+A complete domain-focused system for managing books, members and circulation. Models real operational workflows such as issue/return tracking and automated fine calculation.
+
+**Highlights:** Admin/Librarian/Student roles · JWT authorization · Cloudinary uploads · CRUD workflows · fine automation · live deployment
+
+`React` `Node.js` `Express` `MongoDB` `JWT` `Cloudinary`
+
+[Live Frontend](https://knowledge-desk-library-management-7.vercel.app/) · [Repository](https://github.com/PrajapatiPankaj1/KnowledgeDesk-Library-Management)
+
+</td>
+</tr>
 </table>
 
 ---
